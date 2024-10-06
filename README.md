@@ -1,4 +1,4 @@
-## Get latest STABLE turnip builds here : <br><br> **https://github.com/v3kt0r-87/Mesa-Turnip-Builder**
+## Get latest STABLE turnip builds here : <br><br> **https://github.com/v3kt0r-87/Mesa-Turnip-Builder/releases**
 
 ### Stable builds are well tested and uses latest stable Android NDK to build
 
