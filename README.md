@@ -8,4 +8,4 @@
 
 ```Coming soon```
 
-### Beta builds are not that stable but uses latest beta Android NDK and mesa-git to build
+### Beta builds are not stable but uses latest beta Android NDK and mesa-git to build
