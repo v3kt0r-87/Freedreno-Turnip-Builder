@@ -1,6 +1,11 @@
-# This Project has moved to a new Repo 
+## Get latest STABLE turnip builds here : <br><br> **https://github.com/v3kt0r-87/Mesa-Turnip-Builder**
 
-# Get New Turnip Builds Here:
+### Stable builds are well tested and uses latest stable Android NDK to build
 
-https://github.com/v3kt0r-87/Mesa-Turnip-Builder
+<br>
 
+## Get latest BETA turnip driver builds here :
+
+```Coming soon```
+
+### Beta builds are not that stable but uses latest Android NDK and mesa-git to build
